@@ -1,11 +1,11 @@
-package listing:
+Booking:
 ------------------------------------ 
-http://developersatwork.com/projects/g7/Redhaven/?page_id=4063
+http://developersatwork.com/projects/g7/Redhaven/?page_id=4192
 
 
-package details:
+Resource:
 ------------------------------------
-http://developersatwork.com/projects/g7/Redhaven/?package=tour-package-9
+http://developersatwork.com/projects/g7/Redhaven/?page_id=4194
 
 
 
