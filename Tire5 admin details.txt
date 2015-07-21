@@ -1,0 +1,11 @@
+Site URL
+=====================
+http://developersatwork.com/projects/g7/Redhaven/
+
+
+Site Admin
+=====================
+http://developersatwork.com/projects/g7/Redhaven/wp-admin
+
+user: admin
+pass: nopass
