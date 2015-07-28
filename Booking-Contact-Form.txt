@@ -1,0 +1,16 @@
+Booking Page
+======================
+
+http://developersatwork.com/projects/g7/Redhaven/booking/
+
+Contact Page
+======================
+http://developersatwork.com/projects/g7/Redhaven/contact/
+
+
+Site Admin
+=======================
+http://developersatwork.com/projects/g7/Redhaven/wp-admin
+
+user: admin
+pass: nopass
