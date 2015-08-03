@@ -1,0 +1,11 @@
+Resource Page
+======================
+
+http://developersatwork.com/projects/g7/Redhaven/resource/
+
+Site Admin
+=======================
+http://developersatwork.com/projects/g7/Redhaven/wp-admin
+
+user: admin
+pass: nopass
